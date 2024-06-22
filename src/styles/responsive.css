@@ -4,7 +4,7 @@
   }
 
   .hero {
-    max-height: 500px;
+    max-height: 400px;
     background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url("../public/images/heroes/hero-image-small.jpg");
   }
 }

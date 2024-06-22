@@ -7,7 +7,7 @@ class appBar extends HTMLElement {
     this.innerHTML = `
       <div class="app-bar">
         <div class="app-bar__menu">
-            <button id="hamburgerButton">☰</button>
+            <button id="hamburgerButton" class="btn">☰</button>
         </div>
         <div class="app-bar__logo">
             <img src="./images/logo-nav.svg" alt="logo-nav" class="btn">

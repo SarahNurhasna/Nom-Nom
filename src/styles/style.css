@@ -154,7 +154,6 @@ skip to content
 */
 
 main {
-  padding: 0 32px;
   flex: 1;
 }
 
@@ -162,6 +161,7 @@ main {
   margin: 0 auto;
   min-height: 100%;
   font-weight: normal;
+  padding: 0 32px;
 }
 
 h2.content__heading {

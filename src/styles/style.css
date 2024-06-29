@@ -248,12 +248,17 @@ h2.content__heading {
 */
 .restaurant-detail {
   color: white;
+  padding: 0 32px;
 }
 
 .restaurant-detail h4, h2 {
   margin: 8px 0;
 }
 
+.restaurant-detail__title {
+  text-align: center;
+  padding: 24px;
+}
 .restaurant-detail__general {
   margin: 0 auto;
   width: 100%;
